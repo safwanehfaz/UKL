@@ -1,0 +1,9 @@
+# Ignore 64-bit binaries and related files
+
+aik64/*
+
+bin64/*
+
+binary64/*
+
+python31_64/*
